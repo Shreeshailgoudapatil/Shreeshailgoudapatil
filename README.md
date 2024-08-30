@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">📚 I am ECE'24 Undergraduate Student at KLS Gogte Institute of technology.<br>        📚Completed B.TECH under specialization of Electronics and communication, I have honed my programming skills by creating various  projects.<br>📚I have also discovered my love for problem solving.</p>
+<p align="center">📚 I am ECE'24 Student at KLS Gogte Institute of technology.<br>        📚Completed B.TECH under specialization of Electronics and communication, I have honed my programming skills by creating various  projects.<br>📚I have also discovered my love for problem solving.</p>
 
 ###
 
