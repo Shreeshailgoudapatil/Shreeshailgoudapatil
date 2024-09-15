@@ -1,64 +1,72 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shreeshailpatil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shreeshailgouda-n-patil-941722225">Shreeshailgouda Patil</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+
+
+
+###
+<h1>About Me</h1>
+<h2>A Passionate Software Engineer and Open-Source Enthusiast</h2>
+<p>I love to code and contribute to open-source projects, constantly learning and improving my skills. I'm driven by a desire to solve problems, build innovative solutions, and collaborate with others in the tech community.</p>
+
+
 
 ###
 
-<p align="center">My name is Shreeshailgoouda Patil</p>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+
+</br></br>
+- ⛷️ Currently Working On: Next.js projects with a focus on performance optimization and user experience.
+- 🧑‍💻 Ask Me About: Python, JavaScript, SQL, React.js, Web Development, or any tech-related topic.
+- 📩 Reach Me At: shreeshailpatil2002@gmail.com
+- 💎 Core Values: Smart work, quick adaptability, critical thinking, and honesty.
+- 🌎 Languages: Fluent in English, Hindi, Kannada | Familiar with German.
+- 📍 Location: India
 
 ###
 
-<div align="center">
+</br></br></br>
+
+<h2>Tools and Technologies</h2>
+
+###
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,django,express,nodejs,mongodb,mysql,git,linux,postman" height="40" alt="python logo"  />
+  
+</div>
+
+
+## SOCIALS
+
+<div>
   <a href="https://www.linkedin.com/in/shreeshailgouda-n-patil-941722225/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Shreesh72824843" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:shreeshailpatil2002@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://leetcode.com/u/shreeshailmax/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
+</br></br>
 ###
 
-<h2 align="center">About me</h2>
-<p align="center">A passionate Software Engineer</p>
+<p align="center">
+  Thank you for visiting my profile!🫡
+  ☑️Stay tuned for regular updates as I continue to build and share my work
+</p>
 
-###
-
-
-
-###
-
-<p align="center">📚 I am ECE'24 Student at KLS Gogte Institute of technology.<br>        📚Completed B.TECH under specialization of Electronics and communication, I have honed my programming skills by creating various  projects.<br>📚I have also discovered my love for problem solving.</p>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
-
-###
-
-<p align="left"></p>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
 
 ###
