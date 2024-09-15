@@ -27,7 +27,7 @@
 
 ###
 
-</br></br></br>
+</br>
 
 <h2>Tools and Technologies</h2>
 
@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,django,express,nodejs,mongodb,mysql,git,linux,postman" height="40" alt="python logo"  />
   
 </div>
+</br>
 
 
 ## SOCIALS
